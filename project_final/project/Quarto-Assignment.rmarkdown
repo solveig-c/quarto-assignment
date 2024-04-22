@@ -1,0 +1,65 @@
+---
+title: "Let's raise awareness !"
+subtitle: "About children suffering from at least 4 deprivation (4D) in the world"
+author: "Solveig CHAXEL"
+date: "04/25/2024"
+format: 
+  html:
+    theme: solar
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(gapminder)
+library(plotly)
+
+# data
+
+unicef_indicator_1 <- read_delim("unicef_indicator_1.csv", 
+                                 delim = ";", escape_double = FALSE, trim_ws = TRUE)
+unicef_indicator_2 <- read_delim("unicef_indicator_2.csv", 
+                                 delim = ";", escape_double = FALSE, trim_ws = TRUE)
+unicef_metadata <- read_delim("unicef_metadata.csv", 
+                              delim = ";", escape_double = FALSE, trim_ws = TRUE)
+data_continent <- read_delim("data_right_3.csv", 
+                             delim = ";", escape_double = FALSE, trim_ws = TRUE)
+
+# transformations
+
+data_join <- unicef_indicator_1 %>%
+  left_join(data_continent, by=join_by(country)) %>%
+  left_join(unicef_indicator_2, by=join_by(country, time_period, sex)) %>%
+  left_join(unicef_metadata, by=join_by(country, time_period))
+```
+
+```{r}
+#| fig-cap: ""
+
+
+map_world <- map_data("world")
+
+map_data_join <- full_join(data_join, map_world, by=join_by(country == region))
+
+
+interactive_map <- ggplot(data = map_data_join) +
+  aes(x = long, y = lat, group = group, fill = obs_value_1,
+      text = paste("Value in %:", obs_value_1)) +
+  geom_polygon() +
+  scale_fill_gradient(low = "#FFE36A", high = "#AE4A34", na.value = "grey") +
+  labs(fill = NULL, 
+       title = "Children suffering from at least 4D (%)", 
+       x = NULL, 
+       y = NULL) +
+  theme_classic() +
+  theme(legend.position = "left",
+        panel.background = element_rect(fill = "#373737")) +
+  theme(text = element_text(family = "calibri"))
+
+ggplotly(interactive_map, tooltip = "text") %>%
+  config(scrollZoom = TRUE)
+```
+

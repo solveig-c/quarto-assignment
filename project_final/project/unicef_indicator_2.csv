@@ -1,0 +1,2269 @@
+country;alpha_2_code;alpha_3_code;numeric_code;indicator;time_period;obs_value_2;sex
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2004;15.8;Female
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2013;18.8;Female
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2018;20.6;Female
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2004;20;Male
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2013;19.3;Male
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2018;20.8;Male
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2004;18.1;Total
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2013;19;Total
+Afghanistan;AF;AFG;4;BMI-for-age >+1 SD;2018;20.7;Total
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2005;44.9;Female
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2009;45.9;Female
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2017;43.3;Female
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2005;47.2;Male
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2009;41.8;Male
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2017;44.3;Male
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2005;46.1;Total
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2009;43.8;Total
+Albania;AL;ALB;8;BMI-for-age >+1 SD;2017;43.8;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1992;27.6;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1995;29.4;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2000;41;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2002;36.2;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2006;36.9;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2012;35.6;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2019;37.2;Female
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1992;30.2;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1995;32.6;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2000;42.2;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2002;39.5;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2006;41.3;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2012;38.9;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2019;39.2;Male
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1992;28.9;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;1995;31;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2000;41.6;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2002;37.8;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2006;39.1;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2012;37.3;Total
+Algeria;DZ;DZA;12;BMI-for-age >+1 SD;2019;38.2;Total
+Angola;AO;AGO;24;BMI-for-age >+1 SD;1996;15.9;Female
+Angola;AO;AGO;24;BMI-for-age >+1 SD;2015;17.9;Female
+Angola;AO;AGO;24;BMI-for-age >+1 SD;1996;19.4;Male
+Angola;AO;AGO;24;BMI-for-age >+1 SD;2015;18.6;Male
+Angola;AO;AGO;24;BMI-for-age >+1 SD;1996;17.6;Total
+Angola;AO;AGO;24;BMI-for-age >+1 SD;2015;18.3;Total
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2005;29.4;Female
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2018;37.8;Female
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2005;32.4;Male
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2018;38.3;Male
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2005;30.9;Total
+Argentina;AR;ARG;32;BMI-for-age >+1 SD;2018;38.1;Total
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;1998;32.9;Female
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2000;43.6;Female
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2005;31.3;Female
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2010;40.3;Female
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2016;35.7;Female
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;1998;32.5;Male
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2000;50.1;Male
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2005;39.4;Male
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2010;44.2;Male
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2016;39.1;Male
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;1998;32.7;Total
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2000;47.3;Total
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2005;35.7;Total
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2010;42.3;Total
+Armenia;AM;ARM;51;BMI-for-age >+1 SD;2016;37.5;Total
+Australia;AU;AUS;36;BMI-for-age >+1 SD;2007;35.5;Female
+Australia;AU;AUS;36;BMI-for-age >+1 SD;2007;43.4;Male
+Australia;AU;AUS;36;BMI-for-age >+1 SD;2007;39.6;Total
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2000;16;Female
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2006;29.9;Female
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2013;38.2;Female
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2000;21.6;Male
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2006;36.1;Male
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2013;43.8;Male
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2000;19;Total
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2006;33.2;Total
+Azerbaijan;AZ;AZE;31;BMI-for-age >+1 SD;2013;41.2;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;1997;8.3;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2000;4.7;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2004;4.6;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2007;3.4;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2011;6.6;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2013;6.4;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2014;5.9;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2018;8.6;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2019;8.8;Female
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;1997;9.5;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2000;6;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2004;5.6;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2007;5.2;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2011;6.8;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2013;7.8;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2014;7.6;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2018;11;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2019;9.6;Male
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;1997;8.9;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2000;5.4;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2004;5.1;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2007;4.3;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2011;6.7;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2013;7.1;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2014;6.8;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2018;9.8;Total
+Bangladesh;BD;BGD;50;BMI-for-age >+1 SD;2019;9.2;Total
+Barbados;BB;BRB;52;BMI-for-age >+1 SD;2012;32.8;Female
+Barbados;BB;BRB;52;BMI-for-age >+1 SD;2012;19.7;Male
+Barbados;BB;BRB;52;BMI-for-age >+1 SD;2012;25.8;Total
+Belarus;BY;BLR;112;BMI-for-age >+1 SD;2005;31.4;Female
+Belarus;BY;BLR;112;BMI-for-age >+1 SD;2005;34.1;Male
+Belarus;BY;BLR;112;BMI-for-age >+1 SD;2005;32.8;Total
+Belgium;BE;BEL;56;BMI-for-age >+1 SD;2014;20.9;Female
+Belgium;BE;BEL;56;BMI-for-age >+1 SD;2014;30.2;Male
+Belgium;BE;BEL;56;BMI-for-age >+1 SD;2014;25.5;Total
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2006;37.9;Female
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2011;23.6;Female
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2015;24;Female
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2006;41.1;Male
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2011;28.5;Male
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2015;28.9;Male
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2006;39.5;Total
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2011;26.1;Total
+Belize;BZ;BLZ;84;BMI-for-age >+1 SD;2015;26.5;Total
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;1996;11.2;Female
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2001;16.3;Female
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2008;13.8;Female
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2014;11.4;Female
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2018;10.7;Female
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;1996;12.4;Male
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2001;18.6;Male
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2008;18.6;Male
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2014;13.1;Male
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2018;14.4;Male
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;1996;11.8;Total
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2001;17.4;Total
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2008;16.2;Total
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2014;12.2;Total
+Benin;BJ;BEN;204;BMI-for-age >+1 SD;2018;12.6;Total
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;1999;27.1;Female
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2008;23.9;Female
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2010;23.4;Female
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;1999;32.6;Male
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2008;28;Male
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2010;23.9;Male
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;1999;29.8;Total
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2008;26.1;Total
+Bhutan;BT;BTN;64;BMI-for-age >+1 SD;2010;23.6;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1989;40.8;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1994;34.3;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1998;44.1;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2003;42.2;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2008;37.9;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2012;33;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2016;36.6;Female
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1989;40.6;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1994;32.8;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1998;45.8;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2003;45;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2008;41.8;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2012;35.9;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2016;39.8;Male
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1989;40.7;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1994;33.5;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;1998;44.9;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2003;43.7;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2008;39.9;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2012;34.5;Total
+Bolivia;BO;BOL;68;BMI-for-age >+1 SD;2016;38.2;Total
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2000;34.5;Female
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2006;44.7;Female
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2012;39.2;Female
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2000;35.7;Male
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2006;48.6;Male
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2012;41.9;Male
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2000;35.1;Total
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2006;46.7;Total
+Bosnia and Herzegovina;BA;BIH;70;BMI-for-age >+1 SD;2012;40.5;Total
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2000;28.8;Female
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2007;27.4;Female
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2000;31.4;Male
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2007;30.2;Male
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2000;30.1;Total
+Botswana;BW;BWA;72;BMI-for-age >+1 SD;2007;28.8;Total
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1989;30.8;Female
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1996;25.1;Female
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2007;28.3;Female
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2019;29;Female
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1989;32.1;Male
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1996;29.2;Male
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2007;31.2;Male
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2019;30.6;Male
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1989;31.5;Total
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;1996;27.1;Total
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2007;29.8;Total
+Brazil;BR;BRA;76;BMI-for-age >+1 SD;2019;29.8;Total
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2004;36.1;Female
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2007;22.1;Female
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2014;20.3;Female
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2004;40.7;Male
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2007;20.8;Male
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2014;30.9;Male
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2004;38.3;Total
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2007;21.4;Total
+Bulgaria;BG;BGR;100;BMI-for-age >+1 SD;2014;26;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1993;11.9;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1999;10.6;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2010;11.3;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2011;6.8;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2012;6.3;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2013;6.5;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2014;7.5;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2015;5.9;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2016;6.8;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2017;6.6;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2018;6.9;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2019;8.3;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2020;6.7;Female
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1993;14.3;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1999;13.5;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2010;12.8;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2011;8.4;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2012;7.7;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2013;8.1;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2014;9;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2015;7.1;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2016;9.2;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2017;9.5;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2018;7.7;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2019;8.5;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2020;7.8;Male
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1993;13.1;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;1999;12.1;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2010;12.1;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2011;7.6;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2012;7;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2013;7.3;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2014;8.3;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2015;6.5;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2016;8;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2017;8.1;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2018;7.3;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2019;8.4;Total
+Burkina Faso;BF;BFA;854;BMI-for-age >+1 SD;2020;7.3;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;1987;10.8;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2000;12.1;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2010;16.5;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2016;12.1;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2018;13.4;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2019;16.4;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2020;11.6;Female
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;1987;12.8;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2000;14.2;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2010;19.8;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2016;15.8;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2018;15.5;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2019;19.4;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2020;14.2;Male
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;1987;11.8;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2000;13.1;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2010;18.2;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2016;14;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2018;14.5;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2019;17.8;Total
+Burundi;BI;BDI;108;BMI-for-age >+1 SD;2020;12.9;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;1996;19.1;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2000;11.2;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2005;6.7;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2008;7.3;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2010;7.4;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2014;6.6;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2021;12.4;Female
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;1996;17.3;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2000;11.2;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2005;9.6;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2008;9;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2010;7.7;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2014;8.4;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2021;13.5;Male
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;1996;18.2;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2000;11.2;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2005;8.1;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2008;8.1;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2010;7.5;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2014;7.5;Total
+Cambodia;KH;KHM;116;BMI-for-age >+1 SD;2021;12.9;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1991;25.4;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1998;27.4;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2004;29.8;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2006;31.9;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2011;27.8;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2014;25.4;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2018;34.3;Female
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1991;31.9;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1998;26.4;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2004;35.9;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2006;35.3;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2011;30.6;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2014;30.1;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2018;37.7;Male
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1991;28.7;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;1998;26.9;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2004;32.9;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2006;33.6;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2011;29.1;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2014;27.8;Total
+Cameroon;CM;CMR;120;BMI-for-age >+1 SD;2018;36;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;1994;18.1;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2000;29.8;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2006;24.9;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2010;13.7;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2012;11.1;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2014;13.9;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2018;13.7;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2019;14.4;Female
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;1994;20.3;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2000;31.3;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2006;25.6;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2010;14.9;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2012;12.7;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2014;15.7;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2018;17;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2019;16.6;Male
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;1994;19.2;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2000;30.6;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2006;25.3;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2010;14.3;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2012;11.9;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2014;14.9;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2018;15.4;Total
+Central African Republic;CF;CAF;140;BMI-for-age >+1 SD;2019;15.5;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;1997;12.2;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2000;11.8;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2004;15.2;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2010;14.7;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2015;13.2;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2017;9.6;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2019;10.9;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2020;13.2;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2021;10.9;Female
+Chad;TD;TCD;148;BMI-for-age >+1 SD;1997;14.6;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2000;15.2;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2004;17.4;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2010;14.9;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2015;15.5;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2017;10.8;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2019;12.1;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2020;14.3;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2021;11.2;Male
+Chad;TD;TCD;148;BMI-for-age >+1 SD;1997;13.4;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2000;13.5;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2004;16.3;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2010;14.8;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2015;14.4;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2017;10.2;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2019;11.5;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2020;13.8;Total
+Chad;TD;TCD;148;BMI-for-age >+1 SD;2021;11.1;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;1990;21.9;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;1992;28.2;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;1995;31.5;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;1998;22.7;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;2000;15.9;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;2002;27.2;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;2005;21.3;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;2010;23.2;Female
+China;CN;CHN;156;BMI-for-age >+1 SD;1990;20.8;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;1992;32.5;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;1995;34.7;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;1998;25.7;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;2000;20;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;2002;32;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;2005;25.4;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;2010;28.1;Male
+China;CN;CHN;156;BMI-for-age >+1 SD;1990;21.3;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;1992;30.6;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;1995;33.2;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;1998;24.3;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;2000;18.2;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;2002;29.8;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;2005;23.5;Total
+China;CN;CHN;156;BMI-for-age >+1 SD;2010;25.8;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1986;29.8;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1995;24.9;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2000;27.1;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2005;22;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2010;23.9;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2016;24.6;Female
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1986;30.2;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1995;27.8;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2000;32.2;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2005;23.9;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2010;27;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2016;27.2;Male
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1986;30;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;1995;26.3;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2000;29.7;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2005;22.9;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2010;25.5;Total
+Colombia;CO;COL;170;BMI-for-age >+1 SD;2016;25.9;Total
+Comoros;KM;COM;174;BMI-for-age >+1 SD;1996;23;Female
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2000;42.8;Female
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2012;24.2;Female
+Comoros;KM;COM;174;BMI-for-age >+1 SD;1996;24.3;Male
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2000;41.9;Male
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2012;26.7;Male
+Comoros;KM;COM;174;BMI-for-age >+1 SD;1996;23.7;Total
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2000;42.3;Total
+Comoros;KM;COM;174;BMI-for-age >+1 SD;2012;25.4;Total
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2005;24.2;Female
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2011;15;Female
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2014;17.9;Female
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2005;29.2;Male
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2011;16.7;Male
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2014;18.9;Male
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2005;26.7;Total
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2011;15.9;Total
+Republic of the Congo;CG;COG;178;BMI-for-age >+1 SD;2014;18.4;Total
+Costa Rica;CR;CRI;188;BMI-for-age >+1 SD;2018;26.4;Female
+Costa Rica;CR;CRI;188;BMI-for-age >+1 SD;2018;31.8;Male
+Costa Rica;CR;CRI;188;BMI-for-age >+1 SD;2018;29.2;Total
+Cuba;CU;CUB;192;BMI-for-age >+1 SD;2019;28.1;Female
+Cuba;CU;CUB;192;BMI-for-age >+1 SD;2019;33.8;Male
+Cuba;CU;CUB;192;BMI-for-age >+1 SD;2019;31;Total
+Czech Republic;CZ;CZE;203;BMI-for-age >+1 SD;2001;17.6;Female
+Czech Republic;CZ;CZE;203;BMI-for-age >+1 SD;2001;18.6;Male
+Czech Republic;CZ;CZE;203;BMI-for-age >+1 SD;2001;18.1;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1986;15.6;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1994;16.1;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1998;16.1;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2007;16.8;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2012;17.4;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2016;10.9;Female
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1986;19.4;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1994;15.6;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1998;21.8;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2007;19.4;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2012;19.9;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2016;12.2;Male
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1986;17.5;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1994;15.8;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;1998;18.9;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2007;18.2;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2012;18.6;Total
+Ivory Coast;CI;CIV;384;BMI-for-age >+1 SD;2016;11.5;Total
+Korea;KP;PRK;408;BMI-for-age >+1 SD;2002;13.2;Female
+Korea;KP;PRK;408;BMI-for-age >+1 SD;2002;14.1;Male
+Korea;KP;PRK;408;BMI-for-age >+1 SD;2002;13.7;Total
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2001;20;Female
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2007;24.4;Female
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2010;18.3;Female
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2013;18.8;Female
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2017;19.4;Female
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2001;21.7;Male
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2007;23.7;Male
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2010;19.7;Male
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2013;22;Male
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2017;21;Male
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2001;20.8;Total
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2007;24.1;Total
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2010;19;Total
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2013;20.4;Total
+Democratic Republic of the Congo;CD;COD;180;BMI-for-age >+1 SD;2017;20.2;Total
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2011;8.1;Female
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2013;4.5;Female
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2019;8.3;Female
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2011;7.9;Male
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2013;5.9;Male
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2019;6.4;Male
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2011;8;Total
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2013;5.3;Total
+Djibouti;DJ;DJI;262;BMI-for-age >+1 SD;2019;7.3;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1986;27.2;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1991;23;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1996;27.6;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2000;28.6;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2002;28;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2006;22.8;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2007;27.9;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2013;21.1;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2019;26;Female
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1986;26.6;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1991;24.7;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1996;27.4;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2000;28.2;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2002;29.4;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2006;25.9;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2007;29.2;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2013;27.5;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2019;23.9;Male
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1986;26.9;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1991;23.9;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;1996;27.5;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2000;28.4;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2002;28.7;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2006;24.4;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2007;28.6;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2013;24.4;Total
+Dominican Republic;DO;DOM;214;BMI-for-age >+1 SD;2019;24.9;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;1999;16.1;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2004;27.2;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2006;22.4;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2012;28.1;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2014;28.8;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2019;34.7;Female
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;1999;15.6;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2004;28.8;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2006;27.8;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2012;32.1;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2014;33.8;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2019;35;Male
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;1999;15.8;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2004;28;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2006;25.2;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2012;30.1;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2014;31.4;Total
+Ecuador;EC;ECU;218;BMI-for-age >+1 SD;2019;34.9;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1988;29.8;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1991;45.7;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1992;41.5;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1995;40.6;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2003;23;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2005;35.2;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2008;43.9;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2014;37.4;Female
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1988;38.6;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1991;50;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1992;45.4;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1995;42.9;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2003;23.5;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2005;36.7;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2008;43.8;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2014;37.2;Male
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1988;34.4;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1991;47.9;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1992;43.5;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;1995;41.8;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2003;23.2;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2005;35.9;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2008;43.8;Total
+Egypt;EG;EGY;818;BMI-for-age >+1 SD;2014;37.3;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1988;21.4;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1993;21.9;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1998;22.4;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2003;27;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2008;22.6;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2014;23.4;Female
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1988;25.2;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1993;26.2;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1998;25.9;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2003;30.7;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2008;27.4;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2014;25.5;Male
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1988;23.3;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1993;24.1;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;1998;24.2;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2003;29;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2008;25.1;Total
+El Salvador;SV;SLV;222;BMI-for-age >+1 SD;2014;24.5;Total
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;1997;23.1;Female
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2000;38.2;Female
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2004;33.8;Female
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;1997;32;Male
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2000;42;Male
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2004;38.4;Male
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;1997;27.6;Total
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2000;40.1;Total
+Equatorial Guinea;GQ;GNQ;226;BMI-for-age >+1 SD;2004;36.3;Total
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;1995;9.6;Female
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2002;6.7;Female
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2010;9.7;Female
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;1995;9.4;Male
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2002;8.5;Male
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2010;10.8;Male
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;1995;9.5;Total
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2002;7.6;Total
+Eritrea;ER;ERI;232;BMI-for-age >+1 SD;2010;10.2;Total
+Estonia;EE;EST;233;BMI-for-age >+1 SD;2014;22.9;Female
+Estonia;EE;EST;233;BMI-for-age >+1 SD;2014;24.1;Male
+Estonia;EE;EST;233;BMI-for-age >+1 SD;2014;23.6;Total
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2000;45.5;Female
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2006;38.9;Female
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2010;41.6;Female
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2014;37.3;Female
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2000;49.5;Male
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2006;41.3;Male
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2010;43.4;Male
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2014;39.1;Male
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2000;47.5;Total
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2006;40.1;Total
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2010;42.5;Total
+Swaziland;SZ;SWZ;748;BMI-for-age >+1 SD;2014;38.2;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2000;11;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2005;17.9;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2011;12.1;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2014;12.4;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2016;14.1;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2019;13.8;Female
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2000;12;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2005;20.5;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2011;12.2;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2014;12.2;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2016;14;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2019;15;Male
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2000;11.5;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2005;19.2;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2011;12.2;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2014;12.3;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2016;14;Total
+Ethiopia;ET;ETH;231;BMI-for-age >+1 SD;2019;14.5;Total
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2004;19.8;Female
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2021;21.2;Female
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2004;24.4;Male
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2021;23.4;Male
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2004;22.3;Total
+Fiji;FJ;FJI;242;BMI-for-age >+1 SD;2021;22.4;Total
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2000;24.7;Female
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2012;24.5;Female
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2000;27.9;Male
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2012;27.5;Male
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2000;26.3;Total
+Gabon;GA;GAB;266;BMI-for-age >+1 SD;2012;26;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2000;14;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2006;14.4;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2010;11;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2012;6.3;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2013;11.2;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2018;8.2;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2020;9;Female
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2000;18.1;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2006;15.9;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2010;12.9;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2012;6.2;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2013;11.1;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2018;10.2;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2020;10;Male
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2000;16.1;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2006;15.2;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2010;12;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2012;6.3;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2013;11.1;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2018;9.3;Total
+Gambia;GM;GMB;270;BMI-for-age >+1 SD;2020;9.5;Total
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2005;44.2;Female
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2009;44.5;Female
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2018;29.3;Female
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2005;49;Male
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2009;48.1;Male
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2018;32.9;Male
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2005;46.8;Total
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2009;46.4;Total
+Georgia;GE;GEO;268;BMI-for-age >+1 SD;2018;31.1;Total
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2004;19.5;Female
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2016;20.2;Female
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2004;22.5;Male
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2016;15.8;Male
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2004;21.1;Total
+Germany;DE;DEU;276;BMI-for-age >+1 SD;2016;17.9;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1988;7.4;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1993;13;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1997;13.2;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1998;11.5;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2003;16.5;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2006;14.3;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2008;18.1;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2011;12.5;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2014;11.7;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2017;9.4;Female
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1988;8.8;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1993;14.9;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1997;15.2;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1998;14;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2003;21.2;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2006;16.8;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2008;18.5;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2011;12.9;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2014;12.7;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2017;9.4;Male
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1988;8.1;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1993;14;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1997;14.2;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;1998;12.7;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2003;18.8;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2006;15.6;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2008;18.3;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2011;12.7;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2014;12.2;Total
+Ghana;GH;GHA;288;BMI-for-age >+1 SD;2017;9.4;Total
+Greece;GR;GRC;300;BMI-for-age >+1 SD;2003;41.1;Female
+Greece;GR;GRC;300;BMI-for-age >+1 SD;2003;43.4;Male
+Greece;GR;GRC;300;BMI-for-age >+1 SD;2003;42.3;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1987;24.2;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1995;29.1;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1999;33.7;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2000;28;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2002;30.3;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2009;27.1;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2015;27.6;Female
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1987;25.2;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1995;32;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1999;37.1;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2000;30.9;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2002;34.9;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2009;30.7;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2015;30.6;Male
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1987;24.7;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1995;30.5;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;1999;35.4;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2000;29.5;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2002;32.6;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2009;28.9;Total
+Guatemala;GT;GTM;320;BMI-for-age >+1 SD;2015;29.1;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;1999;17.4;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2005;19.6;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2007;22.1;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2012;16.2;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2016;15.6;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2018;18.3;Female
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;1999;19.9;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2005;21.2;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2007;23.1;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2012;19.2;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2016;18.3;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2018;18.4;Male
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;1999;18.7;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2005;20.4;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2007;22.6;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2012;17.7;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2016;17;Total
+Guinea;GN;GIN;324;BMI-for-age >+1 SD;2018;18.4;Total
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2000;17.1;Female
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2010;11.1;Female
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2012;9.3;Female
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2014;10.3;Female
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2019;8.9;Female
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2000;19.8;Male
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2010;13.7;Male
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2012;9.9;Male
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2014;12.1;Male
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2019;12.7;Male
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2000;18.4;Total
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2010;12.4;Total
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2012;9.6;Total
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2014;11.2;Total
+Guinea-Bissau;GW;GNB;624;BMI-for-age >+1 SD;2019;10.8;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;1993;7.2;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2000;18.9;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2006;20.8;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2009;22.3;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2014;17.4;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2019;18.8;Female
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;1993;12;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2000;18.1;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2006;18.9;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2009;20.5;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2014;18.6;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2019;17.9;Male
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;1993;9.7;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2000;18.5;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2006;19.8;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2009;21.4;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2014;18;Total
+Guyana;GY;GUY;328;BMI-for-age >+1 SD;2019;18.3;Total
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;1994;16.8;Female
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2000;16.1;Female
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2006;17.6;Female
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2012;15.3;Female
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2017;17.4;Female
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;1994;17;Male
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2000;21;Male
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2006;18.7;Male
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2012;20.1;Male
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2017;20.5;Male
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;1994;16.9;Total
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2000;18.5;Total
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2006;18.1;Total
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2012;17.8;Total
+Haiti;HT;HTI;332;BMI-for-age >+1 SD;2017;18.9;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1991;20.8;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1996;15.2;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2001;20.5;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2006;28.4;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2012;24.7;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2019;20.9;Female
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1991;26.5;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1996;22.2;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2001;25.2;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2006;31.7;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2012;27.4;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2019;23.1;Male
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1991;23.7;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;1996;18.8;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2001;22.9;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2006;30.1;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2012;26.1;Total
+Honduras;HN;HND;340;BMI-for-age >+1 SD;2019;22;Total
+India;IN;IND;356;BMI-for-age >+1 SD;1992;11.4;Female
+India;IN;IND;356;BMI-for-age >+1 SD;1999;11.1;Female
+India;IN;IND;356;BMI-for-age >+1 SD;2006;7.3;Female
+India;IN;IND;356;BMI-for-age >+1 SD;2015;7.6;Female
+India;IN;IND;356;BMI-for-age >+1 SD;2020;10.7;Female
+India;IN;IND;356;BMI-for-age >+1 SD;1992;11.8;Male
+India;IN;IND;356;BMI-for-age >+1 SD;1999;12.3;Male
+India;IN;IND;356;BMI-for-age >+1 SD;2006;7.9;Male
+India;IN;IND;356;BMI-for-age >+1 SD;2015;8.2;Male
+India;IN;IND;356;BMI-for-age >+1 SD;2020;11.2;Male
+India;IN;IND;356;BMI-for-age >+1 SD;1992;11.6;Total
+India;IN;IND;356;BMI-for-age >+1 SD;1999;11.8;Total
+India;IN;IND;356;BMI-for-age >+1 SD;2006;7.6;Total
+India;IN;IND;356;BMI-for-age >+1 SD;2015;7.9;Total
+India;IN;IND;356;BMI-for-age >+1 SD;2020;10.9;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2000;10.1;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2001;9.9;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2004;13.1;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2007;25.1;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2010;27.3;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2013;24.6;Female
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2000;11.7;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2001;11.5;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2004;16.1;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2007;26.2;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2010;27.4;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2013;26.1;Male
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2000;10.9;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2001;10.7;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2004;14.6;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2007;25.6;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2010;27.3;Total
+Indonesia;ID;IDN;360;BMI-for-age >+1 SD;2013;25.4;Total
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2000;23.1;Female
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2006;37.6;Female
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2011;30.7;Female
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2018;23.4;Female
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2000;23.7;Male
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2006;41.4;Male
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2011;32.3;Male
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2018;23.6;Male
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2000;23.4;Total
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2006;39.5;Total
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2011;31.5;Total
+Iraq;IQ;IRQ;368;BMI-for-age >+1 SD;2018;23.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1989;17.4;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1991;16.4;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1992;18.4;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1993;22.1;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1994;23.4;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1995;19;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1996;16.2;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1997;17.8;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1998;18.1;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1999;19.6;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2000;18.7;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2001;17;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2002;26.2;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2004;23.1;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2006;17.2;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2007;27.7;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2008;22;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2010;12.9;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2012;23.9;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2014;22.9;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2016;18.8;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2018;21.3;Female
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1989;20.6;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1991;18.5;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1992;20.5;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1993;27;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1994;28.9;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1995;23.9;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1996;18.8;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1997;22.6;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1998;17.9;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1999;21.1;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2000;31.3;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2001;21.9;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2002;27.8;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2004;30;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2006;20.6;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2007;26.3;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2008;23.8;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2010;14.8;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2012;19.3;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2014;19.9;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2016;24.2;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2018;18.6;Male
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1989;19;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1991;17.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1992;19.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1993;24.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1994;26.2;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1995;21.6;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1996;17.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1997;20.1;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1998;18;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;1999;20.3;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2000;25.6;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2001;19.6;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2002;27;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2004;26.3;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2006;18.9;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2007;26.9;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2008;22.9;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2010;13.8;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2012;21.5;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2014;21.3;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2016;21.7;Total
+Jamaica;JM;JAM;388;BMI-for-age >+1 SD;2018;20;Total
+Japan;JP;JPN;392;BMI-for-age >+1 SD;2010;10.7;Female
+Japan;JP;JPN;392;BMI-for-age >+1 SD;2010;12.1;Male
+Japan;JP;JPN;392;BMI-for-age >+1 SD;2010;11.4;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1990;32.6;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1997;21;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2002;22.7;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2009;26.4;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2012;19.7;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2019;29.5;Female
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1990;34.7;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1997;22;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2002;23.1;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2009;29.9;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2012;23.1;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2019;34.2;Male
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1990;33.6;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;1997;21.5;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2002;22.9;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2009;28.2;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2012;21.5;Total
+Jordan;JO;JOR;400;BMI-for-age >+1 SD;2019;31.8;Total
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1995;27.5;Female
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1999;26.2;Female
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2006;42.1;Female
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2010;35.9;Female
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2015;30.7;Female
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1995;35.1;Male
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1999;26.7;Male
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2006;44.2;Male
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2010;38.5;Male
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2015;29.5;Male
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1995;31;Total
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;1999;26.4;Total
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2006;43.2;Total
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2010;37.3;Total
+Kazakhstan;KZ;KAZ;398;BMI-for-age >+1 SD;2015;30.1;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1993;22.8;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1994;24.4;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1998;25;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2000;27.9;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2003;23.2;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2005;27.1;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2008;21.1;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2014;19;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2016;20.6;Female
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1993;26;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1994;24.5;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1998;25;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2000;28.8;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2003;24.9;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2005;28.5;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2008;22.3;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2014;22.7;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2016;22.3;Male
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1993;24.4;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1994;24.5;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;1998;25;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2000;28.4;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2003;24;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2005;27.8;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2008;21.7;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2014;20.9;Total
+Kenya;KE;KEN;404;BMI-for-age >+1 SD;2016;21.5;Total
+Kiribati;KI;KIR;296;BMI-for-age >+1 SD;2018;13;Female
+Kiribati;KI;KIR;296;BMI-for-age >+1 SD;2018;18.5;Male
+Kiribati;KI;KIR;296;BMI-for-age >+1 SD;2018;15.7;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2001;32.3;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2002;24.8;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2003;24.3;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2004;22.5;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2005;24.7;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2006;24;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2007;25.1;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2008;27.1;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2009;26.3;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2010;25.4;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2011;23.8;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2012;26.4;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2013;25.1;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2014;28.4;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2015;26.6;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2016;27.1;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2017;29.1;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2018;30.3;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2019;31.3;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2020;33.7;Female
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2001;28.7;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2002;26;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2003;26.7;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2004;24.1;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2005;25;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2006;26.2;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2007;23.9;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2008;26.6;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2009;28.7;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2010;24;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2011;22.8;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2012;27.7;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2013;26.9;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2014;26.9;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2015;26.3;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2016;27.7;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2017;28.5;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2018;31.2;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2019;28.6;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2020;32.9;Male
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2001;30.5;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2002;25.4;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2003;25.5;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2004;23.3;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2005;24.8;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2006;25.1;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2007;24.5;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2008;26.9;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2009;27.5;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2010;24.7;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2011;23.3;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2012;27.1;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2013;26;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2014;27.6;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2015;26.4;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2016;27.4;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2017;28.8;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2018;30.8;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2019;29.9;Total
+Kuwait;KW;KWT;414;BMI-for-age >+1 SD;2020;33.3;Total
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;1997;39.6;Female
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2006;34.2;Female
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2012;31.9;Female
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2014;29.7;Female
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2018;29.8;Female
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;1997;43.1;Male
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2006;42;Male
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2012;35.3;Male
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2014;34.4;Male
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2018;31.1;Male
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;1997;41.4;Total
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2006;38.1;Total
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2012;33.6;Total
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2014;32.1;Total
+Kyrgyzstan;KG;KGZ;417;BMI-for-age >+1 SD;2018;30.5;Total
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2000;10.9;Female
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2006;6.7;Female
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2011;10.6;Female
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2015;8.5;Female
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2017;11.1;Female
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2000;10.1;Male
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2006;9.3;Male
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2011;13;Male
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2015;9.7;Male
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2017;12.7;Male
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2000;10.5;Total
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2006;8.1;Total
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2011;11.8;Total
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2015;9.1;Total
+Laos;LA;LAO;418;BMI-for-age >+1 SD;2017;11.9;Total
+Latvia;LV;LVA;428;BMI-for-age >+1 SD;2021;21.3;Female
+Latvia;LV;LVA;428;BMI-for-age >+1 SD;2021;21.4;Male
+Latvia;LV;LVA;428;BMI-for-age >+1 SD;2021;21.3;Total
+Lebanon;LB;LBN;422;BMI-for-age >+1 SD;2021;24.5;Female
+Lebanon;LB;LBN;422;BMI-for-age >+1 SD;2021;23.4;Male
+Lebanon;LB;LBN;422;BMI-for-age >+1 SD;2021;24;Total
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2004;29.7;Female
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2009;26.9;Female
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2014;31.2;Female
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2018;31.6;Female
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2004;33;Male
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2009;31.8;Male
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2014;36.7;Male
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2018;34.5;Male
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2004;31.4;Total
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2009;29.3;Total
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2014;33.9;Total
+Lesotho;LS;LSO;426;BMI-for-age >+1 SD;2018;33;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2000;21.8;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2007;19.1;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2010;18.8;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2013;17.8;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2016;14.6;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2019;18.1;Female
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2000;22.2;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2007;24.8;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2010;21.5;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2013;19.8;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2016;17.6;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2019;22.5;Male
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2000;22;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2007;22;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2010;20.2;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2013;18.9;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2016;16.1;Total
+Liberia;LR;LBR;430;BMI-for-age >+1 SD;2019;20.3;Total
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;1995;38.4;Female
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;2007;41.6;Female
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;1995;42;Male
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;2007;45.2;Male
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;1995;40.2;Total
+Libyan Arab Jamahiriya;LY;LBY;434;BMI-for-age >+1 SD;2007;43.4;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1992;12.5;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1997;13.4;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2004;15.9;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2012;7.2;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2018;7.3;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2021;9.2;Female
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1992;15.3;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1997;14.5;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2004;18.4;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2012;8.1;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2018;9;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2021;11.8;Male
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1992;13.9;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;1997;14;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2004;17.1;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2012;7.6;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2018;8.2;Total
+Madagascar;MG;MDG;450;BMI-for-age >+1 SD;2021;10.5;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1992;30.5;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1998;42.4;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2000;33.5;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2002;34.4;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2004;35;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2006;36.3;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2010;31.2;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2014;21;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2015;22.4;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2016;16.9;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2017;19;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2018;20.2;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2019;28.2;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2020;13.1;Female
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1992;33.8;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1998;45.6;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2000;40;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2002;41.2;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2004;38.4;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2006;40.4;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2010;37.5;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2014;25.6;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2015;26.7;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2016;20.2;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2017;22.6;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2018;26.6;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2019;31.7;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2020;18.1;Male
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1992;32.1;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;1998;44;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2000;36.7;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2002;37.7;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2004;36.6;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2006;38.3;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2010;34.3;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2014;23.3;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2015;24.5;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2016;18.5;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2017;20.8;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2018;23.4;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2019;29.9;Total
+Malawi;MW;MWI;454;BMI-for-age >+1 SD;2020;15.6;Total
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1994;4.5;Female
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1997;20.7;Female
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2001;10.2;Female
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2009;14.5;Female
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2017;12.4;Female
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1994;6.9;Male
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1997;14.6;Male
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2001;13.3;Male
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2009;15.2;Male
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2017;15.6;Male
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1994;5.7;Total
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;1997;17.9;Total
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2001;11.9;Total
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2009;14.8;Total
+Maldives;MV;MDV;462;BMI-for-age >+1 SD;2017;14;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1987;5.3;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1996;9.1;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2001;14.2;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2006;14.7;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2010;8.6;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2011;7.4;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2014;7;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2015;7.7;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2016;6.3;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2017;8;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2018;8.9;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2019;6.1;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2020;9.2;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2021;6.1;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2022;5.5;Female
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1987;6;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1996;10.5;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2001;15.9;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2006;15.2;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2010;9.7;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2011;7.1;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2014;9;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2015;8.7;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2016;6.9;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2017;7.6;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2018;10.9;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2019;7.6;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2020;9.9;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2021;7.1;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2022;6.8;Male
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1987;5.7;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;1996;9.8;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2001;15.1;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2006;14.9;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2010;9.2;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2011;7.2;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2014;8;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2015;8.2;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2016;6.6;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2017;7.8;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2018;9.9;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2019;6.9;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2020;9.5;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2021;6.6;Total
+Mali;ML;MLI;466;BMI-for-age >+1 SD;2022;6.1;Total
+Marshall Islands;MH;MHL;584;BMI-for-age >+1 SD;2017;22;Female
+Marshall Islands;MH;MHL;584;BMI-for-age >+1 SD;2017;25.8;Male
+Marshall Islands;MH;MHL;584;BMI-for-age >+1 SD;2017;24;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2000;15.4;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2007;9.5;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2008;8.1;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2011;10.6;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2012;7.4;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2015;6.6;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2018;8.1;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2019;8;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2020;10.8;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2021;7.6;Female
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2000;14.8;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2007;10.5;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2008;8.3;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2011;10.6;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2012;6.5;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2015;8;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2018;8.7;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2019;7.9;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2020;11.6;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2021;7.2;Male
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2000;15.1;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2007;10;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2008;8.2;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2011;10.6;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2012;6.9;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2015;7.3;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2018;8.4;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2019;7.9;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2020;11.2;Total
+Mauritania;MR;MRT;478;BMI-for-age >+1 SD;2021;7.4;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1988;25.5;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1998;33.9;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2002;24.5;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2006;27.8;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2012;31.8;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2015;23.2;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2016;23.4;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2019;25.9;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2020;24.5;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2021;24.6;Female
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1988;27.7;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1998;35.2;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2002;36.9;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2006;31.5;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2012;35.2;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2015;22.3;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2016;21;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2019;31.4;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2020;29.1;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2021;29.5;Male
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1988;26.6;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;1998;34.5;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2002;30.7;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2006;29.7;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2012;33.5;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2015;22.8;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2016;22.2;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2019;28.8;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2020;26.8;Total
+Mexico;MX;MEX;484;BMI-for-age >+1 SD;2021;27.1;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;1999;29.2;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2000;36.4;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2004;31.6;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2005;42.8;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2010;37.9;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2013;42.2;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2016;36.8;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2018;37.4;Female
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;1999;33.3;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2000;37.7;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2004;38.8;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2005;49.6;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2010;45.4;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2013;47.1;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2016;45.4;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2018;38.9;Male
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;1999;31.3;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2000;37.1;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2004;35.5;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2005;46.3;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2010;41.7;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2013;44.7;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2016;41;Total
+Mongolia;MN;MNG;496;BMI-for-age >+1 SD;2018;38.2;Total
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2005;38.6;Female
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2013;43.4;Female
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2018;31.9;Female
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2005;48.3;Male
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2013;45.1;Male
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2018;25;Male
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2005;43.4;Total
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2013;44.3;Total
+Montenegro;ME;MNE;499;BMI-for-age >+1 SD;2018;27.9;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1987;27.9;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1992;39.8;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1997;37.3;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2003;34.3;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2011;36.9;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2017;32.7;Female
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1987;29.9;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1992;42.3;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1997;43.6;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2003;37.8;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2011;44.2;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2017;39.7;Male
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1987;28.9;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1992;41.1;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;1997;40.5;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2003;36;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2011;40.6;Total
+Morocco;MA;MAR;504;BMI-for-age >+1 SD;2017;36.3;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;1997;24.8;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2001;29.2;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2003;25.7;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2008;20.8;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2011;30.8;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2015;29.4;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2020;22.6;Female
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;1997;22.3;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2001;33.2;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2003;31.1;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2008;23.7;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2011;31.5;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2015;34;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2020;26.1;Male
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;1997;23.5;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2001;31.1;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2003;28.4;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2008;22.3;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2011;31.1;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2015;31.6;Total
+Mozambique;MZ;MOZ;508;BMI-for-age >+1 SD;2020;24.4;Total
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2000;8.4;Female
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2003;18.4;Female
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2016;8.3;Female
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2000;9.3;Male
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2003;17.2;Male
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2016;10.9;Male
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2000;8.8;Total
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2003;17.8;Total
+Burma;MM;MMR;104;BMI-for-age >+1 SD;2016;9.7;Total
+Namibia;;NAM;516;BMI-for-age >+1 SD;1992;14.2;Female
+Namibia;;NAM;516;BMI-for-age >+1 SD;2000;12.6;Female
+Namibia;;NAM;516;BMI-for-age >+1 SD;2007;16.5;Female
+Namibia;;NAM;516;BMI-for-age >+1 SD;2013;16.2;Female
+Namibia;;NAM;516;BMI-for-age >+1 SD;1992;16.1;Male
+Namibia;;NAM;516;BMI-for-age >+1 SD;2000;13.1;Male
+Namibia;;NAM;516;BMI-for-age >+1 SD;2007;17.3;Male
+Namibia;;NAM;516;BMI-for-age >+1 SD;2013;17.9;Male
+Namibia;;NAM;516;BMI-for-age >+1 SD;1992;15.1;Total
+Namibia;;NAM;516;BMI-for-age >+1 SD;2000;12.8;Total
+Namibia;;NAM;516;BMI-for-age >+1 SD;2007;16.9;Total
+Namibia;;NAM;516;BMI-for-age >+1 SD;2013;17.1;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1996;7.3;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1998;8.1;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2001;6;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2006;3.7;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2011;7.6;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2014;8.1;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2016;7.9;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2019;8.7;Female
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1996;9.4;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1998;9.3;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2001;7.1;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2006;6.2;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2011;9.5;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2014;9.1;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2016;8.4;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2019;10.6;Male
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1996;8.3;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;1998;8.7;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2001;6.5;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2006;5;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2011;8.6;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2014;8.6;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2016;8.2;Total
+Nepal;NP;NPL;524;BMI-for-age >+1 SD;2019;9.7;Total
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;1996;19.2;Female
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;2009;21;Female
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;1996;20.3;Male
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;2009;21.5;Male
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;1996;19.7;Total
+Netherlands;NL;NLD;528;BMI-for-age >+1 SD;2009;21.3;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1993;25.5;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1998;27.1;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2001;27.2;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2004;24.7;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2007;26.6;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2012;29.7;Female
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1993;28.6;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1998;33.3;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2001;33.7;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2004;36.8;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2007;31.9;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2012;31.9;Male
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1993;27;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;1998;30.2;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2001;30.5;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2004;30.7;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2007;29.2;Total
+Nicaragua;NI;NIC;558;BMI-for-age >+1 SD;2012;30.8;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;1992;7.8;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;1998;6.4;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2000;7.6;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2006;8.1;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2007;5.1;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2008;4.6;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2009;4.7;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2010;2.7;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2011;3.8;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2012;4.9;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2013;4.9;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2014;4.7;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2015;6;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2016;5;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2018;5.1;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2019;8.9;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2020;8;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2021;8.5;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;2022;7.7;Female
+Niger;NE;NER;562;BMI-for-age >+1 SD;1992;10.3;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;1998;7.7;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2000;10.2;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2006;10.7;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2007;6.2;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2008;5.7;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2009;6.2;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2010;3.8;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2011;5.3;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2012;6.7;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2013;5.6;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2014;5.8;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2015;7.4;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2016;6.6;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2018;6.9;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2019;10.4;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2020;8.8;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2021;9.9;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;2022;7.9;Male
+Niger;NE;NER;562;BMI-for-age >+1 SD;1992;9.1;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;1998;7.1;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2000;8.9;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2006;9.4;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2007;5.7;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2008;5.2;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2009;5.5;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2010;3.2;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2011;4.5;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2012;5.8;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2013;5.3;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2014;5.3;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2015;6.7;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2016;5.8;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2018;6;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2019;9.7;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2020;8.4;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2021;9.2;Total
+Niger;NE;NER;562;BMI-for-age >+1 SD;2022;7.8;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;1990;14;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2003;20.7;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2011;12.9;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2014;10.8;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2015;10.3;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2016;9.8;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2018;13;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2020;12.3;Female
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;1990;16.1;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2003;24.4;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2011;16.2;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2014;12.8;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2015;13;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2016;11.7;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2018;16.3;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2020;13.1;Male
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;1990;15;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2003;22.5;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2011;14.6;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2014;11.8;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2015;11.7;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2016;10.8;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2018;14.7;Total
+Nigeria;NG;NGA;566;BMI-for-age >+1 SD;2020;12.7;Total
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;1999;31.2;Female
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2005;40.2;Female
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2011;35.3;Female
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2019;30;Female
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;1999;36.6;Male
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2005;43.5;Male
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2011;32.6;Male
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2019;31.3;Male
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;1999;34.1;Total
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2005;41.9;Total
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2011;34;Total
+Macedonia;MK;MKD;807;BMI-for-age >+1 SD;2019;30.7;Total
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1994;13.1;Female
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1999;8;Female
+Oman;OM;OMN;512;BMI-for-age >+1 SD;2009;8.7;Female
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1994;10.8;Male
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1999;8.1;Male
+Oman;OM;OMN;512;BMI-for-age >+1 SD;2009;8.2;Male
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1994;12;Total
+Oman;OM;OMN;512;BMI-for-age >+1 SD;1999;8;Total
+Oman;OM;OMN;512;BMI-for-age >+1 SD;2009;8.4;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1991;17.8;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1992;7.7;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2001;14.8;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2011;16.7;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2013;14.6;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2018;13.8;Female
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1991;21.7;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1992;9.1;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2001;15.4;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2011;17.3;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2013;16.4;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2018;15.6;Male
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1991;19.8;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;1992;8.5;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2001;15.1;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2011;17;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2013;15.5;Total
+Pakistan;PK;PAK;586;BMI-for-age >+1 SD;2018;14.7;Total
+Panama;PA;PAN;591;BMI-for-age >+1 SD;1997;25.2;Female
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2003;32.4;Female
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2008;34.4;Female
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2019;38.2;Female
+Panama;PA;PAN;591;BMI-for-age >+1 SD;1997;30.5;Male
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2003;35.3;Male
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2008;35.8;Male
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2019;40.2;Male
+Panama;PA;PAN;591;BMI-for-age >+1 SD;1997;27.9;Total
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2003;33.9;Total
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2008;35.1;Total
+Panama;PA;PAN;591;BMI-for-age >+1 SD;2019;39.3;Total
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2005;15.3;Female
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2010;29.9;Female
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2005;26.6;Male
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2010;29.7;Male
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2005;21.5;Total
+Papua New Guinea;PG;PNG;598;BMI-for-age >+1 SD;2010;29.8;Total
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;1990;33.3;Female
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2005;31.6;Female
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2012;37;Female
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2016;40;Female
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;1990;39.9;Male
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2005;36.9;Male
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2012;39.4;Male
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2016;41.8;Male
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;1990;36.6;Total
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2005;34.4;Total
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2012;38.2;Total
+Paraguay;PY;PRY;600;BMI-for-age >+1 SD;2016;40.9;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;1991;39.8;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;1996;44.1;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2000;46.6;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2005;39.3;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2007;41.1;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2009;38.8;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2010;27.9;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2011;34;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2012;30.6;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2013;33.9;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2014;34.2;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2015;32.7;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2016;31.2;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2017;30.8;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2018;32.6;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2019;32.9;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2020;35.3;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;2021;33.9;Female
+Peru;PE;PER;604;BMI-for-age >+1 SD;1991;43.7;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;1996;47.9;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2000;49.6;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2005;42;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2007;44.9;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2009;41.7;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2010;33.5;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2011;39.6;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2012;36.8;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2013;38.8;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2014;38.4;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2015;34.7;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2016;34.9;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2017;35.6;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2018;37.5;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2019;36.4;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2020;38.2;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;2021;37;Male
+Peru;PE;PER;604;BMI-for-age >+1 SD;1991;41.8;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;1996;46;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2000;48.1;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2005;40.7;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2007;43;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2009;40.2;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2010;30.7;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2011;36.8;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2012;33.8;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2013;36.4;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2014;36.3;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2015;33.7;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2016;33.1;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2017;33.2;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2018;35.1;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2019;34.7;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2020;36.7;Total
+Peru;PE;PER;604;BMI-for-age >+1 SD;2021;35.4;Total
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2003;9.3;Female
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2008;10.2;Female
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2011;12.1;Female
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2013;12.9;Female
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2015;10.1;Female
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2003;12.2;Male
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2008;12.5;Male
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2011;14.8;Male
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2013;15.9;Male
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2015;11.9;Male
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2003;10.8;Total
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2008;11.4;Total
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2011;13.6;Total
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2013;14.5;Total
+Philippines;PH;PHL;608;BMI-for-age >+1 SD;2015;11;Total
+Poland;PL;POL;616;BMI-for-age >+1 SD;2011;21.1;Female
+Poland;PL;POL;616;BMI-for-age >+1 SD;2011;18.8;Male
+Poland;PL;POL;616;BMI-for-age >+1 SD;2011;20;Total
+Portugal;PT;PRT;620;BMI-for-age >+1 SD;2016;36.3;Female
+Portugal;PT;PRT;620;BMI-for-age >+1 SD;2016;32.1;Male
+Portugal;PT;PRT;620;BMI-for-age >+1 SD;2016;34;Total
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2003;24.2;Female
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2011;32.3;Female
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2014;30.2;Female
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2017;22.7;Female
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2020;25.7;Female
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2003;30.1;Male
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2011;38.1;Male
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2014;28.2;Male
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2017;25.6;Male
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2020;26.5;Male
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2003;27.2;Total
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2011;35.3;Total
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2014;29.2;Total
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2017;24.2;Total
+South Korea;KR;KOR;410;BMI-for-age >+1 SD;2020;26.2;Total
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2005;23;Female
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2012;20.8;Female
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2005;29.6;Male
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2012;23.1;Male
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2005;26.3;Total
+Moldova;MD;MDA;498;BMI-for-age >+1 SD;2012;22;Total
+Romania;RO;ROU;642;BMI-for-age >+1 SD;1999;29.7;Female
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2000;27.3;Female
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2001;28.9;Female
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2002;28.1;Female
+Romania;RO;ROU;642;BMI-for-age >+1 SD;1999;30.7;Male
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2000;28.4;Male
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2001;28.8;Male
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2002;28.8;Male
+Romania;RO;ROU;642;BMI-for-age >+1 SD;1999;30.2;Total
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2000;27.8;Total
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2001;28.9;Total
+Romania;RO;ROU;642;BMI-for-age >+1 SD;2002;28.4;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;1992;22.9;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2000;25.9;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2005;30.9;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2010;30.9;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2012;28;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2015;29.7;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2018;17.9;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2020;27.8;Female
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;1992;27.1;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2000;30.8;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2005;32.5;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2010;36.2;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2012;33.2;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2015;36.2;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2018;24.4;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2020;34.4;Male
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;1992;25;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2000;28.3;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2005;31.6;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2010;33.5;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2012;30.6;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2015;32.9;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2018;21.2;Total
+Rwanda;RW;RWA;646;BMI-for-age >+1 SD;2020;31.1;Total
+Saint Lucia;LC;LCA;662;BMI-for-age >+1 SD;2012;17.6;Female
+Saint Lucia;LC;LCA;662;BMI-for-age >+1 SD;2012;25.9;Male
+Saint Lucia;LC;LCA;662;BMI-for-age >+1 SD;2012;21.7;Total
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2014;20;Female
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2019;31.2;Female
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2014;26.1;Male
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2019;32.6;Male
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2014;23.2;Total
+Samoa;WS;WSM;882;BMI-for-age >+1 SD;2019;31.9;Total
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2014;13;Female
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2019;18.8;Female
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2014;16.2;Male
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2019;22.1;Male
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2014;14.6;Total
+Sao Tome and Principe;ST;STP;678;BMI-for-age >+1 SD;2019;20.5;Total
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2004;19.1;Female
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2017;32.2;Female
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2018;30.3;Female
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2019;29.3;Female
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2020;30.4;Female
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2004;18.7;Male
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2017;32.5;Male
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2018;28.5;Male
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2019;31.7;Male
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2020;29.5;Male
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2004;18.9;Total
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2017;32.3;Total
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2018;29.3;Total
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2019;30.5;Total
+Saudi Arabia;SA;SAU;682;BMI-for-age >+1 SD;2020;30;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1986;19.1;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1993;14.3;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2000;13.4;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2005;10.9;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2011;12;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2012;6.2;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2013;7;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2014;6.7;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2015;7.2;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2016;9.4;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2017;6.7;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2018;7;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2019;9.3;Female
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1986;14.2;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1993;18.8;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2000;15;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2005;12.9;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2011;13;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2012;6.3;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2013;7.6;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2014;6.5;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2015;8.4;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2016;10.5;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2017;6.6;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2018;8.6;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2019;8.5;Male
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1986;16.7;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;1993;16.5;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2000;14.2;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2005;11.9;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2011;12.5;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2012;6.2;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2013;7.4;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2014;6.6;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2015;7.8;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2016;10;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2017;6.6;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2018;7.8;Total
+Senegal;SN;SEN;686;BMI-for-age >+1 SD;2019;8.9;Total
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2005;42;Female
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2010;37.3;Female
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2014;32.2;Female
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2019;26.2;Female
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2005;41.6;Male
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2010;38.4;Male
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2014;34.2;Male
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2019;34.9;Male
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2005;41.8;Total
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2010;37.8;Total
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2014;33.2;Total
+Serbia;RS;SRB;688;BMI-for-age >+1 SD;2019;30.9;Total
+Seychelles;SC;SYC;690;BMI-for-age >+1 SD;2012;25.5;Female
+Seychelles;SC;SYC;690;BMI-for-age >+1 SD;2012;26.7;Male
+Seychelles;SC;SYC;690;BMI-for-age >+1 SD;2012;26.1;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2000;19.3;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2005;22.7;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2010;11.9;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2014;15.7;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2017;16.7;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2019;16.8;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2021;16;Female
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2000;18.3;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2005;25.3;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2010;13.7;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2014;17.1;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2017;19.6;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2019;21.5;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2021;18.5;Male
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2000;18.8;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2005;24;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2010;12.8;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2014;16.4;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2017;18.1;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2019;19.2;Total
+Sierra Leone;SL;SLE;694;BMI-for-age >+1 SD;2021;17.2;Total
+Singapore;SG;SGP;702;BMI-for-age >+1 SD;2000;9.8;Female
+Singapore;SG;SGP;702;BMI-for-age >+1 SD;2000;12.9;Male
+Singapore;SG;SGP;702;BMI-for-age >+1 SD;2000;11.4;Total
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;1989;14;Female
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;2015;15.7;Female
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;1989;18;Male
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;2015;18.2;Male
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;1989;16.1;Total
+Solomon Islands;SB;SLB;90;BMI-for-age >+1 SD;2015;17;Total
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2006;14.8;Female
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2009;11.7;Female
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2006;16.9;Male
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2009;11.7;Male
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2006;15.9;Total
+Somalia;SO;SOM;706;BMI-for-age >+1 SD;2009;11.7;Total
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2008;37.4;Female
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2015;38.3;Female
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2016;38.4;Female
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2017;36.2;Female
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2008;42.4;Male
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2015;41;Male
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2016;42.1;Male
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2017;43.3;Male
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2008;40;Total
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2015;39.6;Total
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2016;40.3;Total
+South Africa;ZA;ZAF;710;BMI-for-age >+1 SD;2017;39.8;Total
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2006;22.7;Female
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2010;15.7;Female
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2006;22.9;Male
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2010;14.9;Male
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2006;22.8;Total
+South Sudan;SS;SSD;728;BMI-for-age >+1 SD;2010;15.3;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1987;4.4;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1993;3.3;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2000;4.9;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2007;5;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2009;3.8;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2012;2.3;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2016;7;Female
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1987;3.6;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1993;3.4;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2000;3.6;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2007;5.1;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2009;4.4;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2012;2.7;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2016;7.4;Male
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1987;4;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;1993;3.3;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2000;4.2;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2007;5;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2009;4.1;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2012;2.5;Total
+Sri Lanka;LK;LKA;144;BMI-for-age >+1 SD;2016;7.2;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;1996;24.2;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2000;31.3;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2002;29;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2004;29.7;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2006;38.9;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2010;23.2;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2014;32.2;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2020;30.5;Female
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;1996;26.9;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2000;34.8;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2002;29.5;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2004;32.6;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2006;45;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2010;25.6;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2014;36.9;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2020;37.1;Male
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;1996;25.6;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2000;33.1;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2002;29.3;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2004;31.2;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2006;42;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2010;24.4;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2014;34.7;Total
+Palestinian Territory;PS;PSE;275;BMI-for-age >+1 SD;2020;33.9;Total
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2006;16.3;Female
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2010;6.4;Female
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2014;9.3;Female
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2006;16.1;Male
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2010;7.5;Male
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2014;9.9;Male
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2006;16.2;Total
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2010;6.9;Total
+Sudan;SD;SDN;736;BMI-for-age >+1 SD;2014;9.6;Total
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2000;14.1;Female
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2006;15.1;Female
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2010;14.3;Female
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2018;15.4;Female
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2000;13.9;Male
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2006;15.9;Male
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2010;15.9;Male
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2018;17.1;Male
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2000;14;Total
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2006;15.5;Total
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2010;15.1;Total
+Suriname;SR;SUR;740;BMI-for-age >+1 SD;2018;16.2;Total
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;1993;38.3;Female
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2001;40;Female
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2006;40.1;Female
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2010;36.6;Female
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;1993;37.4;Male
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2001;42.2;Male
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2006;41.3;Male
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2010;36.8;Male
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;1993;37.8;Total
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2001;41.2;Total
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2006;40.7;Total
+Syrian Arab Republic;SY;SYR;760;BMI-for-age >+1 SD;2010;36.7;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2005;20.6;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2007;35.8;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2009;22.8;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2012;19.8;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2016;22.9;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2017;17.4;Female
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2005;26.2;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2007;37.4;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2009;33;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2012;22.4;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2016;27.4;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2017;20.3;Male
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2005;23.5;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2007;36.6;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2009;28;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2012;21.1;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2016;25.2;Total
+Tajikistan;TJ;TJK;762;BMI-for-age >+1 SD;2017;18.9;Total
+Thailand;TH;THA;764;BMI-for-age >+1 SD;1987;6.5;Female
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2006;20.8;Female
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2012;25.2;Female
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2016;22.7;Female
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2019;22.4;Female
+Thailand;TH;THA;764;BMI-for-age >+1 SD;1987;8.9;Male
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2006;24.5;Male
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2012;22.8;Male
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2016;23.5;Male
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2019;24.7;Male
+Thailand;TH;THA;764;BMI-for-age >+1 SD;1987;7.7;Total
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2006;22.7;Total
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2012;24;Total
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2016;23.1;Total
+Thailand;TH;THA;764;BMI-for-age >+1 SD;2019;23.6;Total
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2002;15.4;Female
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2007;6.1;Female
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2009;14.8;Female
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2013;6.3;Female
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2020;6.2;Female
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2002;17.3;Male
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2007;6.8;Male
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2009;16.1;Male
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2013;7.7;Male
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2020;7.9;Male
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2002;16.4;Total
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2007;6.5;Total
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2009;15.4;Total
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2013;7;Total
+Timor-Leste;TL;TLS;626;BMI-for-age >+1 SD;2020;7.1;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1988;17.4;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1998;11.8;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2009;10.6;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2010;9.9;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2012;10.1;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2014;12.4;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2017;9.3;Female
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1988;20;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1998;12.8;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2009;10.5;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2010;11.8;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2012;11.4;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2014;14.7;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2017;11.1;Male
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1988;18.7;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;1998;12.3;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2009;10.6;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2010;10.9;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2012;10.8;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2014;13.5;Total
+Togo;TG;TGO;768;BMI-for-age >+1 SD;2017;10.2;Total
+Tonga;TO;TON;776;BMI-for-age >+1 SD;2019;40.9;Female
+Tonga;TO;TON;776;BMI-for-age >+1 SD;2019;47.4;Male
+Tonga;TO;TON;776;BMI-for-age >+1 SD;2019;44.3;Total
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;1987;12.8;Female
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2000;18.1;Female
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2011;23.6;Female
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;1987;21.7;Male
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2000;19.1;Male
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2011;27.2;Male
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;1987;17.1;Total
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2000;18.6;Total
+Trinidad and Tobago;TT;TTO;780;BMI-for-age >+1 SD;2011;25.4;Total
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;1988;22.7;Female
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2006;26.6;Female
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2012;41.5;Female
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2018;43.4;Female
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;1988;24.2;Male
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2006;27.7;Male
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2012;46.9;Male
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2018;46;Male
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;1988;23.5;Total
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2006;27.2;Total
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2012;44.4;Total
+Tunisia;TN;TUN;788;BMI-for-age >+1 SD;2018;44.7;Total
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2000;24.6;Female
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2006;17.8;Female
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2015;22.5;Female
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2019;13.1;Female
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2000;28;Male
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2006;22;Male
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2015;25.5;Male
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2019;17;Male
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2000;26.3;Total
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2006;19.9;Total
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2015;24.1;Total
+Turkmenistan;TM;TKM;795;BMI-for-age >+1 SD;2019;15.1;Total
+Turks and Caicos Islands;TC;TCA;796;BMI-for-age >+1 SD;2020;33.1;Female
+Turks and Caicos Islands;TC;TCA;796;BMI-for-age >+1 SD;2020;30.5;Male
+Turks and Caicos Islands;TC;TCA;796;BMI-for-age >+1 SD;2020;32;Total
+Tuvalu;TV;TUV;798;BMI-for-age >+1 SD;2019;21.5;Female
+Tuvalu;TV;TUV;798;BMI-for-age >+1 SD;2019;27.1;Male
+Tuvalu;TV;TUV;798;BMI-for-age >+1 SD;2019;24.5;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1993;25.9;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1998;23.6;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2004;37.2;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2008;35.5;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2013;32.5;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2018;27.9;Female
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1993;26.2;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1998;26.7;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2004;41.5;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2008;41.4;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2013;38.8;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2018;33.8;Male
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1993;26.1;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;1998;25.2;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2004;39.4;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2008;38.6;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2013;35.9;Total
+Turkey;TR;TUR;792;BMI-for-age >+1 SD;2018;30.9;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1988;21.5;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1995;23.7;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2000;25;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2006;21.2;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2009;18.3;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2011;20.4;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2012;24.9;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2014;23.7;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2016;21.6;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2018;18;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2020;18.3;Female
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1988;26.3;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1995;26.1;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2000;27.8;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2006;27.6;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2009;26.5;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2011;25.1;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2012;34.8;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2014;25.5;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2016;27.1;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2018;29;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2020;23.3;Male
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1988;23.9;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;1995;24.8;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2000;26.4;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2006;24.4;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2009;22.5;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2011;22.7;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2012;29.5;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2014;24.6;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2016;24.3;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2018;23.2;Total
+Uganda;UG;UGA;800;BMI-for-age >+1 SD;2020;20.6;Total
+Ukraine;UA;UKR;804;BMI-for-age >+1 SD;2000;47.4;Female
+Ukraine;UA;UKR;804;BMI-for-age >+1 SD;2000;48;Male
+Ukraine;UA;UKR;804;BMI-for-age >+1 SD;2000;47.7;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1991;21.7;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1996;21.7;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1999;19.8;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2004;23.4;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2009;22.9;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2010;21.9;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2011;20.5;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2013;24.2;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2015;19.4;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2019;23.1;Female
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1991;25.9;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1996;22.8;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1999;24.1;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2004;25.7;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2009;27.6;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2010;25.5;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2011;23.5;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2013;27.4;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2015;21.1;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2019;29.2;Male
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1991;23.8;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1996;22.3;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;1999;22;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2004;24.5;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2009;25.1;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2010;23.7;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2011;22;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2013;25.7;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2015;20.3;Total
+Tanzania;TZ;TZA;834;BMI-for-age >+1 SD;2019;26.3;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;1999;30.4;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2002;30.7;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2003;29.9;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2004;25.2;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2007;27.4;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2011;28.1;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2013;36.9;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2016;31.5;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2018;39.1;Female
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;1999;33;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2002;30.9;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2003;33.7;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2004;29.7;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2007;28.8;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2011;29;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2013;36.8;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2016;33.9;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2018;40.2;Male
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;1999;31.7;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2002;30.8;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2003;31.8;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2004;27.5;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2007;28.1;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2011;28.6;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2013;36.8;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2016;32.7;Total
+Uruguay;UY;URY;858;BMI-for-age >+1 SD;2018;39.7;Total
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;1996;39.7;Female
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2002;31.1;Female
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2006;37.6;Female
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2017;25.3;Female
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2021;26.6;Female
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;1996;35.5;Male
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2002;35.1;Male
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2006;40.9;Male
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2017;29.5;Male
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2021;25.5;Male
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;1996;37.5;Total
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2002;33.2;Total
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2006;39.3;Total
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2017;27.6;Total
+Uzbekistan;UZ;UZB;860;BMI-for-age >+1 SD;2021;26;Total
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2008;15.3;Female
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2013;19.6;Female
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2008;19.8;Male
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2013;23;Male
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2008;17.6;Total
+Vanuatu;VU;VUT;548;BMI-for-age >+1 SD;2013;21.3;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1993;12;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1999;7.8;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2000;9.5;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2002;10.6;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2003;8.6;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2004;10;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2005;10.1;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2006;10.6;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2007;10.3;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2008;12.3;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2010;16.1;Female
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1993;11.4;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1999;9.6;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2000;10.9;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2002;12.7;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2003;10.8;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2004;12.3;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2005;12.7;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2006;13;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2007;12.5;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2008;14.8;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2010;17.4;Male
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1993;11.7;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;1999;8.7;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2000;10.3;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2002;11.7;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2003;9.8;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2004;11.2;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2005;11.5;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2006;11.9;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2007;11.4;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2008;13.6;Total
+Viet Nam;VN;VNM;704;BMI-for-age >+1 SD;2010;16.8;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1991;30.2;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1997;14.6;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2003;16.2;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2005;21;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2011;8.6;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2013;9.2;Female
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1991;20.6;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1997;15;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2003;17.6;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2005;20.2;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2011;8.3;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2013;9.4;Male
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1991;25.9;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;1997;14.8;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2003;16.9;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2005;20.6;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2011;8.4;Total
+Yemen;YE;YEM;887;BMI-for-age >+1 SD;2013;9.3;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1992;21.9;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1996;27;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1999;43.1;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2002;24.9;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2007;30.2;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2013;24;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2018;22.9;Female
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1992;25.4;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1996;29.3;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1999;42.3;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2002;30;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2007;33.9;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2013;27.3;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2018;25.9;Male
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1992;23.6;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1996;28.1;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;1999;42.7;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2002;27.4;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2007;32.1;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2013;25.7;Total
+Zambia;ZM;ZMB;894;BMI-for-age >+1 SD;2018;24.4;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1988;28.1;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1994;27.7;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1999;29.8;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2005;27.1;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2009;22;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2010;24.2;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2014;17.2;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2015;24.5;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2019;15.4;Female
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1988;33.9;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1994;26.1;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1999;33.2;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2005;30.5;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2009;25.8;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2010;28.1;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2014;20.1;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2015;27.7;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2019;18.6;Male
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1988;31;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1994;26.9;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;1999;31.5;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2005;28.8;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2009;23.9;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2010;26.1;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2014;18.7;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2015;26.1;Total
+Zimbabwe;ZW;ZWE;716;BMI-for-age >+1 SD;2019;17;Total

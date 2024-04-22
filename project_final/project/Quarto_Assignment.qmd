@@ -1,0 +1,183 @@
+---
+title: "Let's raise awareness !"
+subtitle: "About children suffering from at least 4 deprivations (4D) in the world"
+author: "Solveig CHAXEL"
+date: 2024-04-22
+format: 
+  html:
+    toc: true
+    theme: solar
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+<div style="text-align:center">
+# ***What is childhood deprivation ?***
+</div>
+
+Childhood deprivation refers to the lack of access to essential resources and opportunities necessary for healthy development. It encompasses various aspects, including access to:
+<br>- **education**, 
+<br>- **healthcare**, 
+<br>- **clean water**, 
+<br>- **sanitation**, 
+<br>- **adequate nutrition**
+<br>- etc.
+
+In every corner of the globe, children are the most vulnerable members of society, reliant on caregivers and communities for their basic needs and rights. However, **millions of children worldwide** face a stark reality of deprivation, where access to fundamental necessities is severely limited. This multifaceted deprivation encompasses a range of challenges that hinder children's growth, development, and overall well-being.
+
+Understanding the complexities of childhood deprivation is essential for advocating for the rights of these vulnerable children and implementing effective interventions to break the cycle of poverty and inequality. By delving into the root causes and consequences of deprivations, we can work towards building a more equitable world where every child has the **opportunity to thrive** and **reach their full potential**.
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(gapminder)
+library(plotly)
+
+# data
+
+unicef_indicator_1 <- read_delim("unicef_indicator_1.csv", 
+                                 delim = ";", escape_double = FALSE, trim_ws = TRUE)
+unicef_indicator_2 <- read_delim("unicef_indicator_2.csv", 
+                                 delim = ";", escape_double = FALSE, trim_ws = TRUE)
+unicef_metadata <- read_delim("unicef_metadata.csv", 
+                              delim = ";", escape_double = FALSE, trim_ws = TRUE)
+data_continent <- read_delim("data_right_3.csv", 
+                             delim = ";", escape_double = FALSE, trim_ws = TRUE)
+
+# transformations
+
+data_join <- unicef_indicator_1 %>%
+  left_join(data_continent, by=join_by(country)) %>%
+  left_join(unicef_indicator_2, by=join_by(country, time_period, sex)) %>%
+  left_join(unicef_metadata, by=join_by(country, time_period))
+
+data_join_1 <- unicef_indicator_1 %>%
+  left_join(unicef_metadata, by=join_by(country)) %>%
+  left_join(data_continent, by=join_by(country))
+
+data_filtered_gender_total <- data_join %>% 
+  filter(sex %in% c("Total"))
+
+data_filtered_gender <- data_join %>% 
+  filter(sex %in% c("Male", "Female"))
+```
+<div style="text-align:center">
+## ***Our goal: give you an overview of the actual situation***
+</div>
+
+<div style="text-align:center">
+### ***The Global Picture: Mapping Childhood Deprivation***
+</div>
+
+Mapping childhood deprivation provides valuable insights into the geographical distribution of disadvantage. By understanding where deprivation is most prevalent and targeting interventions accordingly, we can work towards building a more equitable and inclusive world for all children.
+
+```{r}
+#| fig-cap: "This map provides a visual representation of the percentage of children suffering from at least four deprivations across different countries. Understanding these disparities can inform targeted policies and interventions aimed at improving the well-being of children on a global scale."
+
+map_world <- map_data("world")
+
+interactive_map <- data_join %>%
+  full_join(map_world, by=join_by(country == region)) %>%
+  ggplot(aes(x = long, y = lat, group = group, fill = obs_value_1,
+      text = paste("Country:", country, "<br>Value in %:", obs_value_1))) +
+  geom_polygon() +
+  scale_fill_gradient(low = "#FFE36A", high = "#AE4A34", na.value = "grey") +
+  labs(fill = "Value in %:", 
+       title = "Figure 1: Mapping Childhood Deprivation Across the Globe", 
+       subtitle = "Children suffering from at least 4D in %",
+       caption = "Source: Unicef",
+       x = "Longitude", 
+       y = "Latitude") +
+  theme_classic() +
+  theme(panel.background = element_rect(fill = "#373737")) +
+  theme(text = element_text(family = "calibri"))
+
+ggplotly(interactive_map, tooltip = "text") %>%
+  config(scrollZoom = TRUE)
+```
+
+<div style="text-align:center">
+### ***An Important Indicator: the Life Expectancy***
+</div>
+
+Life expectancy has shown steady improvement over the past century due to advancements in medical technology, public health interventions, disease prevention, and improvements in living conditions. However, progress is uneven, and some regions continue to experience stagnation or declines in life expectancy due to factors such as conflict, poverty, disease outbreaks, and environmental degradation.
+
+```{r}
+#| fig-cap: "This time-series chart illustrates the evolution of life expectancy over time, categorized by continent, offering a comprehensive view of global health trends. It reveals dynamic patterns in life expectancy across continents, showcasing variations in health outcomes and progress in different parts of the world."
+timeseries <- data_join_1 %>%
+  ggplot() +
+  aes(time_period.y, life_expectancy, group = country, color = continent,
+      text = paste("Country:", country, "<br>Year:", time_period.y,
+                   "<br>Life Expectancy:", life_expectancy)) +
+  geom_line() +
+  labs(title = "Figure 2: Life Expectancy Trends Across Countries, Categorized by Continent", x = "Year", y = "Life Expectancy (years)", color = "Continent", caption = "Source: Unicef") +
+  scale_color_manual(values = c("Asia" = "#DF4141", "Europe" = "#238024", "Africa" = "#FF9ED5", "Americas" = "#3A5FFF", "Oceania" = "#8D219A")) +
+  theme_classic() +
+  theme(text = element_text(family = "calibri"))
+
+ggplotly(timeseries, tooltip = "text")
+```
+
+<div style="text-align:center">
+### ***Correlation Analysis: Life Expectancy and Childhood Deprivation***
+</div>
+
+Life expectancy and childhood deprivation are closely intertwined, with childhood deprivation serving as a determinant of future health outcomes. Children who experience deprivation in areas such as education, healthcare, nutrition, and safety are more likely to face health challenges later in life, leading to shorter life expectancies.
+
+```{r}
+#| fig-cap: "This scatterplot shows the relationship between life expectancy and the percentage of children suffering from at least four deprivations across countries. The regression line highlights the overall trend. We can see that countries experiencing higher levels of deprivations generally exhibiting lower life expectancies. It also reveals regional disparities in life expectancy and childhood deprivation, highlighting areas where interventions are needed to address health inequalities."
+scatterplot <- ggplot(data_filtered_gender_total, aes(x = obs_value_1, y = life_expectancy)) +
+  geom_point(aes(color = continent, text = paste("Country:", country, "<br>Value in years:", life_expectancy, "<br>Value in %:", obs_value_1)), size = 2) +
+  geom_smooth(method = "lm", se = FALSE, color = "black") +
+  labs(title = "Figure 3: Correlation Between Life Expectancy and Childhood Deprivation", x = "Children suffering from at least 4D (%)", y = "Life Expectancy (years)", color = "Continent") +
+  scale_color_manual(values = c("Asia" = "#DF4141", "Europe" = "#238024", "Africa" = "#FF9ED5", "Americas" = "#3A5FFF", "Oceania" = "#8D219A")) +
+  theme_classic() +
+  theme(text = element_text(family = "calibri"))
+
+ggplotly(scatterplot, tooltip = "text") %>%
+  config(scrollZoom = TRUE)
+```
+
+<div style="text-align:center">
+### ***Intersectionality of Deprivation: Continent and Gender Disparities***
+</div>
+
+Individuals experience overlapping forms of disadvantage based on multiple social identities, such as ethnicity, gender, class, and geography. When considering childhood deprivation, it's essential to recognize that children may face intersecting forms of disadvantage based on factors such as continent of residence and gender.
+
+```{r}
+#| fig-cap: "This bar chart illustrates the percentage of children suffering from at least four deprivations, categorized by continent and gender.It provides insights into the intersectionality of deprivation and gender disparities across different regions of the world."
+
+barplot <- ggplot(data_filtered_gender, aes(x = continent, fill = sex, y = obs_value_1)) +
+  geom_bar(position = "dodge", stat = "identity") +
+  labs(title = "Figure 4: Children's Deprivations by Continent and Gender", x = "Continent", y = "Children suffering at least 4D (%)", fill = "Gender") +
+  scale_fill_manual(values = c("Male" = "#74D0F1", "Female" = "#91283B")) +
+  theme_classic() +
+  theme(text = element_text(family = "calibri"))
+
+ggplotly(barplot)
+```
+
+<div style="text-align:center">
+## ***To Conclude***
+</div>
+
+The **United Nations' Sustainable Development Goals** include targets related to ending poverty, ensuring access to quality education and healthcare, and promoting gender equality, all of which are critical for addressing worldwide childhood deprivation.
+
+But it requires coordinated efforts at the local, national, and international levels. Governments, non-governmental organizations, and international agencies must work together to implement policies and programs aimed at reducing poverty, improving access to education and healthcare, and protecting the rights of children.
+
+Childhood deprivation is a complex issue that requires **collective action** and **targeted interventions** to address. By raising awareness and understanding the challenges faced by these vulnerable children, we can work towards creating a more equitable and inclusive world for all. **Join us in advocating for the rights and well-being of children everywhere.**
+
+<span style="font-size: larger;">***References***</span>
+
+1. *UNICEF. (2023, March 31). Query data - UNICEF DATA. UNICEF DATA. <https://data.unicef.org/dv_index/>*
+
+2. *THE 17 GOALS | Sustainable Development. (n.d.). <https://sdgs.un.org/goals>*
+
+<div style="text-align:center">
+<span style="font-size: larger;">***Together, let's make a difference for every child.***</span>
+</div>
+![TvBoy painting](https://bbddec6d863b4cd2a4553cc91369d9e2.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fsos-tvboy.jpg)
